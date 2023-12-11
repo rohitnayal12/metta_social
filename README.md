@@ -54,7 +54,7 @@ To be updated
 
 deployed link for demo:-
 
- -- (https://country-app-rohitnayal12.vercel.app/)
+ -- https://country-app-rohitnayal12.vercel.app/
 
 ## Tech-stack
 
