@@ -73,7 +73,7 @@ deployed link for demo:-
 1. Clone the repository:
 
    ```bash
-   (https://github.com/rohitnayal12/metta_social/edit/main)
+   https://github.com/rohitnayal12/metta_social.git
 
  ## assignment Setup
  
